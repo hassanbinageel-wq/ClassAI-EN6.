@@ -1,0 +1,20 @@
+{
+  "name": "classai-en6",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ClassAI (EN 6) — interactive offline companion app for the Yemeni English Course, Pupil's Book 6.",
+  "scripts": {
+    "sync": "cap sync android",
+    "icons": "capacitor-assets generate --android",
+    "open": "cap open android",
+    "add:android": "cap add android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^6.1.2"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "appId": "com.classai.en6",
+  "appName": "ClassAI (EN 6)",
+  "webDir": "www",
+  "backgroundColor": "#4f46e5",
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#4f46e5"
+  }
+}
